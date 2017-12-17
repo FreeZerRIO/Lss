@@ -1,11 +1,3 @@
-//
-//  main.c
-//  Lss
-//
-//  Created by Алексей Баринов on 15.12.2017.
-//  Copyright © 2017 Era Company. All rights reserved.
-//
-
 #include <stdio.h>
 #include <dirent.h>
 #include <string.h>
